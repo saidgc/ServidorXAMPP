@@ -210,6 +210,7 @@ con `mysqladmin.exe -u root`
 ![](images/41.png)
 
 ##### Nota:
-Mensaje esta repetido ya que se recargo la página, esto sucede si se recarga varias veces
+Cada vez que se detiene el MySQL se van a borrar los datos ya que el motor de la tabla solo esta almacenado en memoria ya que en la creacion de la tabla se agregó este comando `ENGINE = MEMORY;`
+
 
 ![](images/42.png)
