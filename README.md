@@ -212,7 +212,7 @@ con `mysqladmin.exe -u root`
 ##### Nota:
 Cada vez que se detiene el MySQL se van a borrar los datos ya que el motor de la tabla solo esta almacenado en memoria ya que en la creación de la tabla se agregó: `ENGINE = MEMORY;` al final de la consulta
 
-Ya que los datoso solo se guardarán en memoria
+Ya que los datos solo se guardarán en memoria
 
 
 ![](images/42.png)
