@@ -187,7 +187,7 @@ con `mysqladmin.exe -u root`
 
 ![](images/37.png)
 
-4. Dentro de la carpeta creamos una archivo llamado `index.php`
+4. Dentro de la carpeta creamos una archivo llamado [`index.php`](https://github.com/saidgc/examen/blob/master/index.php)
 
 ![](images/38.png)
 
